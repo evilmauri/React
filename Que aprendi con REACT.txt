@@ -1,0 +1,10 @@
+Aprendi con REACT, su origen, caracteristicas saber que la dependencia react-scripts quedo obsoleta este 2024 por lo cual nos genero uns pequenos problemas.
+-Trabajamos con la consola de comando, instalando las librerias de REACT.
+-Administracion de directorios por CMD.
+1. Abrimos la consola de comandos usando el buscador (CMD).
+2. Use el comando CD hasta llegar a la carpeta (REACT).
+3. Use el comando de npm (NPX create-react-app nombre_proyecto).
+4. instalacion y actualizacion de los react-script(que esta obsoleta 2024).
+5. Abrir nuestro editor de texto para abrir la carpeta de nuestro nuevo proyecto.
+-A como utilizar props y children.
+-Creacion de nuestro primer componente con diferentes elementos y props.
